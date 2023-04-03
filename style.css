@@ -10,7 +10,7 @@ html{
 
 header {
     height: 100vh;
-    background-image: url(/img/Flag_of_Osaka.jpg);
+    background-image: url(./img/Flag_of_Osaka.jpg);
     background-position: center, 20%;
     background-size: cover;
     background-repeat: no-repeat;
