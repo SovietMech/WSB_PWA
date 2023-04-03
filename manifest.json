@@ -9,7 +9,7 @@
     "icons" : [
         {
             "src" : "./img/3561843_emoticon_expression_laugh_ridicule_teasing_icon.ico",
-            "sizes" : "512x512",
+            "sizes" : "256x256",
             "type" : "image/ico"
         }
     ]
