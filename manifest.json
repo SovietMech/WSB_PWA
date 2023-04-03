@@ -1,0 +1,16 @@
+{
+    "name": "Przewodnik po Osace",
+    "short_name": "Osaka APP",
+    "theme_color": "#00447a",
+    "background_color": "#00447a",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/PWA/index.html",
+    "icons" : [
+        {
+            "src" : "./img/3561843_emoticon_expression_laugh_ridicule_teasing_icon.ico",
+            "sizes" : "512x512",
+            "type" : "image/ico"
+        }
+    ]
+  }
